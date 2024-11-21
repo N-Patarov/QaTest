@@ -1,0 +1,6 @@
+Get the App button doesnt work in the components section
+Watch the video also doesnt work in the components section
+Not a single visit button working
+No links for social media or anything like that
+
+I dont know if these count as bugs given that the website is a fake one but almost nothing is clickable

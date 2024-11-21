@@ -1,0 +1,8 @@
+1. Does display the logos of "Trusted by" companies in the Homepage
+Given the Framer site is loaded
+And i scroll down to the "Trusted by section"
+I see the logos of the companies using the product
+
+2. Does have a hamburger menu in the header when in mobile
+Given the Framer site is loaded in mobile
+Then i see the hamburger menu in the header
